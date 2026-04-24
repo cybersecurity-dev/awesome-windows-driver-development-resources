@@ -1,6 +1,11 @@
 <div align="center">
+    <p align="center">
+        <a href="https://github.com/cybersecurity-dev/awesome-windows-driver-development">
+          <img width="30%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Windows.svg" />
+        </a>
+    </p>
 
-# **`Awesome`** Windows Driver Development Resources
+# **`Awesome`** Windows Driver Development Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
@@ -30,4 +35,4 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-windows-driver-development-resources/graphs/contributors)!
 
-[🔼 Back to top](#awesome-windows-driver-development-resources)
+[🔼 Back to top](#awesome-windows-driver-development-resources-)
