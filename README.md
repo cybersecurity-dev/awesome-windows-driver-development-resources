@@ -20,9 +20,17 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
-## Books
+## 📖 Contents
+- [Books](#books)
+- [Videos](#videos)
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+
+### Books
 * [Windows NT Device Driver Development](https://www.amazon.com/Windows-NT-Device-Driver-Development/dp/1578700582)
 
+### Videos
 
 ##
 
