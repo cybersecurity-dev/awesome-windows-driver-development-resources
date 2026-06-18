@@ -21,11 +21,14 @@
 </p>
 
 ## 📖 Contents
-- [Books](#books)
-- [Videos](#videos)
+- [Resources](#resources)
+    - [Books](#books)
+    - [Videos](#videos)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
+
+## Resources
 
 ### Books
 * [Windows NT Device Driver Development](https://www.amazon.com/Windows-NT-Device-Driver-Development/dp/1578700582)
@@ -42,5 +45,8 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-windows-driver-development-resources/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-windows-driver-development-resources-)
